@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    color:rgb(76, 111, 124);
+    background: rgb(199, 237, 255);
+}
+
+canvas {
+    background-color: black;
+}
+
+.main-header {
+    flex: 0 1 auto;
+}
+
+.logo-text {
+    background: white;
+    text-align: center;
+    font-size: 40px;
+}
