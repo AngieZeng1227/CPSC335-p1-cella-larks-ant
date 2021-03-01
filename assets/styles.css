@@ -1,8 +1,13 @@
+/* Zhi Zeng */
+/* Email: zengzhi@csu.fullerton.edu */
+/* Github: ZZ1227 */
+/* This is the .css file containing all the styles for the .html file. */
+
 body {
     text-align: center;
     font-family: sans-serif;
     font-size: 25px;
-    color:rgb(76, 111, 124);
+    color: rgb(76, 111, 124);
     background: rgb(199, 237, 255);
 }
 
